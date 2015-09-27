@@ -1,0 +1,82 @@
+    html {
+      height: 100%;
+    }
+    body {
+       width: 1000px;
+       margin: 0 auto;
+       padding-top: 5px;
+       height: 100%;
+       font-family: Times, Sans-Serif;
+    }
+
+    header {
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 5px;
+        font-size: 20px;
+        display: table;
+        width: 790px;
+        float: top;
+    }
+    nav {
+        font-size: 18px;
+        float: left;
+        padding-top:120px;
+    }
+    nav ul {
+        background-color: #dddddd;
+        height: 600px;
+        width: 125px;
+        padding: 0px;
+        padding-top: 50px;
+        margin: 0 0 0 0;
+        float: left;
+        border-bottom: 1px solid #cccccc;
+        list-style-type: none;
+    }
+    nav li {
+        float: top;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        border-right: 1px solid #cccccc;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: black;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 915px;
+        background-color:black;
+        color:white;
+        text-align:center;
+        clear: both;
+        padding:5px;
+        display: block;
+
+    }
+    .donation {
+        background-color: #5DD29C;
+        float: left;
+        width: 266.5px;
+        height: 656px;
+    }
+    .donation img {
+        width: 200px;
+        height: 200px;
+    }
+    .inputText {
+        width: 50px;
+    }
+    .donation ul li {
+        list-style: none;
+    }
+    ul .haypal img {
+        width: 10px;
+    }
